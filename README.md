@@ -1,1 +1,2 @@
-# Conway-s-Game-of-Life
+# Game of Life 
+The Game of Life is a simulation in which cells in a two-dimensional grid can be in one of two states: alive or dead. The state of each cell is determined by its interactions with its eight neighboring cells, and the rules of the game dictate how these states change over time. The initial state of the cells is called the seed, and each new generation is determined by applying the rules to the current generation simultaneously. The rules are based on the number of live neighbors a cell has and can be simplified as: live cells with 2 or 3 live neighbors survive, dead cells with 3 live neighbors become alive and all other cells die or stay dead. The game continues to evolve based on these rules in each generation.
